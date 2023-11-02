@@ -1,1 +1,1 @@
-# EntregaParcial2
+Es una pagina web para alumnos y profesores, en donde comentaran sobre la educación de Chile, las diferentes asignaturas de los alumnos y profesores, será parecido a un foro, donde se podrán crear temas y los usuarios podrán comentar las publicaciones, valorar y dar su opinión.Los usuarios podran dar sus ideas para mejorar la educacion.
